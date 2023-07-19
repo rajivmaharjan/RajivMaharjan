@@ -1,4 +1,4 @@
-![MasterHead](https://images.ctfassets.net/plii0v5gbc4s/2Z8bmd2uAUpvzZmdEzeeOj/8652c8b7d5c782d8e0311520ea1a65a0/machine-learning-ai-b2b.gif)
+![MasterHead]
 <h1 align="center">Hi 👋, I'm Rajiv Maharjan</h1>
 <h3 align="center">I'm studying Artificial Intelligence.</h3>
 
