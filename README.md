@@ -1,7 +1,7 @@
 ![MasterHead](https://images.ctfassets.net/plii0v5gbc4s/2Z8bmd2uAUpvzZmdEzeeOj/8652c8b7d5c782d8e0311520ea1a65a0/machine-learning-ai-b2b.gif)
 <h1 align="center">Hi 👋, I'm Rajiv Maharjan</h1>
 <h3 align="center">I'm studying Artificial Intelligence.</h3>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/98/33/5f/98335fcd764b32cae3780b1e1d5d39b4.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajivmaharjan&label=Profile%20views&color=000000&style=flat" alt="rajivmaharjan" /> </p>
 
