@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajivmaharjan&label=Profile%20views&color=000000&style=flat" alt="rajivmaharjan" /> </p>
 
-- 🔭 I’m currently working on **Anime Recommendation **
-
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 Currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [rajiv02.com.np](rajiv02.com.np)
 
